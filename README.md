@@ -3,6 +3,7 @@
 ## Intro
 
 <img src=https://github.com/StephenFang/stat159-fall2016-project1/blob/master/images/stat159-logo.png>
+
 This is the Stats 159 Project 1!
 
 ## Structure of this project
