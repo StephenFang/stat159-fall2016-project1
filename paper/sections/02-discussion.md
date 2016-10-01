@@ -8,7 +8,7 @@ For this reproducible workflow, using Makefile helps us to automate and streamli
 
 ## Git
 
-<img src=../../../../../../../images/git-logo.png>
+<img src=https://github.com/StephenFang/stat159-fall2016-project1/images/git-logo.png>
 Git is a version control system for an user to keep track of updates/changes from time to time. There are often times in a project when we need to make changes. If we don't have a version control system, we wouldn't be able to keep track of what changes we made through the way and we are also dumping the older file if we don't have a version control system. However, Git will enable an user to smoothly keep track of the changes and record each version number along the way.
 
 The role of Git in this reproducible workflow is valuable in several ways. First of all, by keeping tracking of changes, we will be able to know how much progress we have made along the way and also be able to remember the changes. Secondly, if we have decide to discard some of our changes and rollback to an earlier version, we will be able to do that since we have used Git to keep track of changes. Moreover, if we are working in a team setting, it's important for each team member to know what are changed each time regarding the project and Git defnitely can show the change history.
