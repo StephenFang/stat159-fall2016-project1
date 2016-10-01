@@ -1,5 +1,10 @@
 # Stat159-Fall2016-Project1
 
+## Intro
+
+https://github.com/StephenFang/stat159-fall2016-project1/blob/master/images/stat159-logo.png
+This is the Stats 159 Project 1!
+
 ## Structure of this project
 
 ```
