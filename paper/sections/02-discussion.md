@@ -2,9 +2,7 @@
 
 ## Makefile
 
-Makefile is a tool to help the user to execute a series of system commands and automate the workflow. For example, if for a data science project we will need to first clone a lot of 
-
-For this reproducible workflow, using Makefile helps us to automate and streamline the workflow. It really enables other users to seamlessly reproduce the work. For example, 
+Makefile is a tool to help the user to execute a series of system commands and automate the workflow. For this reproducible workflow, using Makefile helps us to automate and streamline the workflow. It really enables other users to seamlessly reproduce the work. For example, I can have a makefile implemented for other users who want to reproduce this project. What they will need to do is just to run `make all` from their side of the computer, which saves the addtional work.
 
 ## Git
 
