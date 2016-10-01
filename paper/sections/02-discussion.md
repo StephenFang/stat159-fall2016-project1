@@ -17,12 +17,21 @@ The role of Git in this reproducible workflow is valuable in several ways. First
 
 ## GitHub
 
+<img src=https://github.com/StephenFang/stat159-fall2016-project1/blob/master/images/github-logo.png>
+
+
 As explained above for Git, it is a version control system but we would love to have a web interface for git and a online storage to store our current project files. This is when GitHub comes in handy. GitHub provide services for users to host their project files at an online storage plaec and also provide this web interface of git for users to use. Moreover, after hosting the git service online, more than one people can remotely access the project if they are granted the access, which is beneficial for teamwork.
 
 In this project, the first role of GitHub is that we will have an online hosting service that allows both the students, GSI and professor to check in for work. Moreover, GSI and professor will be able to see the changes I made from time to time on GitHub. I, as a student, is also able to upload my project online so that I can retrieve from another computer if I use a lab machine. 
 
 ## Pandoc
 
+<img src=https://github.com/StephenFang/stat159-fall2016-project1/blob/master/images/pandoc-logo.png>
+
+
 Pandoc is a document converter that helps user to convert documents of one format to another format. For example, a lot of users use pandoc to convert markdown files into html files. Pandoc is a very powerful tool for several reasons. First of all, it is free and we don't have to pay to use it. Secondly, if we need a file of different format, which is, we already have a markdown file and we want to convert it to html. Instead of rewrting a completely new file in html, we can easily utilize pandoc to transfer markdown files into html files, which save both of our time and effort. 
 
 ## MarkDown
+
+<img src=https://github.com/StephenFang/stat159-fall2016-project1/blob/master/images/markdown-logo.png>
+
