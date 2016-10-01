@@ -29,7 +29,10 @@ In this project, the first role of GitHub is that we will have an online hosting
 
 Pandoc is a document converter that helps user to convert documents of one format to another format. For example, a lot of users use pandoc to convert markdown files into html files. Pandoc is a very powerful tool for several reasons. First of all, it is free and we don't have to pay to use it. Secondly, if we need a file of different format, which is, we already have a markdown file and we want to convert it to html. Instead of rewrting a completely new file in html, we can easily utilize pandoc to transfer markdown files into html files, which save both of our time and effort. 
 
-## MarkDown
+## Markdown
 
 <img src=https://github.com/StephenFang/stat159-fall2016-project1/blob/master/images/markdown-logo.png>
+
+
+Markdown is a language that is easy to use to format the text into specific formats. It is designed to be easy to write for the users so that they can quickly format the text in bold, italic and many other formats. The other amazing thing about markdown is that it's very easy to convert from markdown to html and many other formats supported by web broswers.
 
